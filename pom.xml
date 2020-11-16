@@ -1163,7 +1163,7 @@
 		<sonar.issuesReport.console.enable>true</sonar.issuesReport.console.enable>
 		<sonar.analysis.mode>publish</sonar.analysis.mode> -->
 		
-		<sonar.projectKey>Adrimeov_openmrs-core</sonar.projectKey>
+            <sonar.projectKey>Adrimeov_openmrs-core</sonar.projectKey>
 	    <sonar.organization>log8371</sonar.organization>
 	    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		
